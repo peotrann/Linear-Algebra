@@ -255,3 +255,4 @@ formula_label.pack(side=tk.BOTTOM, pady=8)
 redraw()
 entries[0].focus()
 root.mainloop()
+    
